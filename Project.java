@@ -1,6 +1,6 @@
-import java.util.Scanner;
-public class Project{
-    public static void main(String[] args) {
-        
+public class Project {
+
+    public static void main (String args[]){
+        //railway
     }
 }
